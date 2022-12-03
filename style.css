@@ -17,6 +17,7 @@
     box-shadow: 2px 13px 8px rgba(0, 0, 0, 0.2)  ; 
 	-webkit-box-shadow: 2px 13px 8px rgba(0, 0, 0, 0.2)  ; 
 	-moz-box-shadow: 2px 13px 8px rgba(0, 0, 0, 0.2)  ;
+    position: fixed;
 }
 
 .nav{
@@ -37,3 +38,14 @@
     cursor: hand;
 }
 
+.contenido{
+    background-image: url("img/programador.webp");
+    height: 70vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mi_persona{
+    display: flex;
+}
