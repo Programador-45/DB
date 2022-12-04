@@ -37,16 +37,17 @@
     </div>
 
     <div class="suscribete">
-        <form action="">
+        <form action="db.php" method="post">
             <label for="name">NOMBRE</label>
             <input type="text" name="name" placeholder="nombre" class="name">
 
             <label for="email">Correo</label>
             <input type="email" name="email" placeholder="correo" class="correo">
 
-            <button>ENVIAR INFORME</button>
+            <button name="button">ENVIAR INFORME</button>
         </form>
     </div>
+    
 </body>
 
 </html>
