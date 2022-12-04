@@ -21,7 +21,7 @@
     </main>
     <div class="mi_persona">
         <div class="imgen">
-            <img src="/img/chema.webp" alt="soy-yo" class="persna">
+        <img src="img/chema.webp" alt="">
         </div>
         <div class="informacion">
             <h1>SOBRE MI</h1>
@@ -33,9 +33,8 @@
         </div>
     </div>
 
-    <div class="or">
     </div>
-
+    
     <div class="suscribete">
         <form action="db.php" method="post">
             <label for="name">NOMBRE</label>

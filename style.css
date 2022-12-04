@@ -52,6 +52,7 @@
     align-items: center;
 }
 
+
 .imgen img{
     width: 400px;
     height: 400px;
@@ -60,7 +61,7 @@
     padding: 23px;
 }
 
-.imgen img:hover{opacity: 0.8; cursor: pointer;}
+
 
 .informacion{
     font-size: 25px;
@@ -99,6 +100,8 @@
     border: none;
     border-radius: 45px;
     padding: 10px;
+    outline: none;
+    background-color: #ffff;
 }
 
 .suscribete button{
@@ -107,6 +110,14 @@
     border: none;
     color: white;
     padding: 9px;
+    margin: 10px;
     font-size: 23px;
+    border-radius: 15px;
+}
+
+.suscribete button:hover{
+
+background-color: rgb(138, 1, 1); 
+border-bottom: solid 1px rgb(255, 17, 17);   
 
 }
