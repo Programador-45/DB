@@ -1,5 +1,5 @@
 <?php 
-
+#comentario2
 include 'conexion.php';
 
 if(isset($_POST["name"])||isset($_POST["email"])){

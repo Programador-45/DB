@@ -1,4 +1,5 @@
 <?php 
+#comentario
 $local = "localhost";
 $usser = "root";
 $passward = "";

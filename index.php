@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Portafolio</title>
 </head>
-
+<!--COMENTARIO-->
 <body>
     <header class="navega">
         <nav class="nav">
